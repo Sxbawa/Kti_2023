@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+C:\Users\Lenovo\Documents\MATERI KULIAH\TUGAS\SMESTER 5\KTI\Tugas 2\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
